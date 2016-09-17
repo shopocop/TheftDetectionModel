@@ -1,4 +1,4 @@
-This repository is shared under Apache License. See the License.txt for details.
+This repository is shared under Apache License. See the LICENSE.txt for details.
 
 Theft detection is composed of two phases:
 
